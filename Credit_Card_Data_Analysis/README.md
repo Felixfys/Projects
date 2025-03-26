@@ -1,6 +1,10 @@
-# Credit Card Data Analysis with SQL
+# Credit Card Attrition Analysis
 
-This project contains SQL queries for analyzing credit card customer data.
+This project is aimed at analyzing credit card customer data and determining factors related to attrition rate. 
+
+## Data Source
+
+The data used in this analysis is from public domain datasets (CC0 license) available on Kaggle.
 
 ## Queries
 
@@ -17,16 +21,21 @@ The SQL file includes queries for:
 9. Most common card category among high earners
 10. Customer segmentation based on transaction amount and utilization ratio
 
-## Data Source
-
-The data used in this analysis is from public domain datasets (CC0 license) available on Kaggle.
-
 ## Usage
 
-To use these queries:
+To run these queries:
 
 1. Import the BankCustomer.csv data into your SQL database.
 2. Run the SQL scripts to create necessary views.
 3. Execute the analysis queries as needed.
 
 Feel free to modify the queries or add new ones to suit your specific analysis needs.
+
+## Dashboard
+
+[Tableau Link](https://public.tableau.com/views/CreditCardAttritionAnalysis_17429589104350/CreditAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+Image:
+![image](https://github.com/user-attachments/assets/9cf44637-d7de-42ab-ad37-ba90f6c2ef6b)
+
+## Links
+Github: https://felixfys.github.io/
