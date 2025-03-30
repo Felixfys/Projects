@@ -1,6 +1,6 @@
 ## Credit Card Attrition Analysis
 
-This project is aimed at analyzing credit card customer data and determining factors related to attrition rate. 
+This project is aimed at analyzing credit card customer data and determining factors related to attrition rate. Preliminary EDA is performed with Python in the attached ipynb file. 
 
 ## Data Source
 
