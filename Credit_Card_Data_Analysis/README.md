@@ -1,4 +1,4 @@
-# Credit Card Attrition Analysis
+![image](https://github.com/user-attachments/assets/ec648436-e762-474b-be51-c90119955d81)# Credit Card Attrition Analysis
 
 This project is aimed at analyzing credit card customer data and determining factors related to attrition rate. 
 
@@ -36,7 +36,7 @@ Feel free to modify the queries or add new ones to suit your specific analysis n
 [Tableau Link](https://public.tableau.com/views/CreditCardAttritionAnalysis_17429589104350/CreditAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 Image:
-![image](https://github.com/user-attachments/assets/9cf44637-d7de-42ab-ad37-ba90f6c2ef6b)
+![image](https://github.com/user-attachments/assets/587ad030-6533-4198-b0e1-2f702d7f040e)
 
 ## Links
 Github: https://felixfys.github.io/
