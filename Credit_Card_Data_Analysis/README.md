@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec648436-e762-474b-be51-c90119955d81)# Credit Card Attrition Analysis
+## Credit Card Attrition Analysis
 
 This project is aimed at analyzing credit card customer data and determining factors related to attrition rate. 
 
